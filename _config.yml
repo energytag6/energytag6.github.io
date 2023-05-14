@@ -1,8 +1,7 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: energy
+title: energy | blog
+description: 
 tags:
   - blog
   - template
@@ -19,12 +18,12 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: yeoun1206@naver.com
 # See: https://disqus.com/
-disqus_username: disqus_username
+disqus_username: energy
 # Contact Form Setting
 # See: https://formspree.io/
-formspree_form_id: formspree_form_id
+formspree_form_id: energy
 
 
 # Social Media Settings
@@ -105,4 +104,4 @@ exclude: [
 ]
 
 # Theme
-version: v3.1.2
+version: blog
