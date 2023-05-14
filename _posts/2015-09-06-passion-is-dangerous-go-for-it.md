@@ -1,7 +1,7 @@
 ---
 날짜: 2015-09-06 12:00:00
 레이아웃: 포스트
-제목: 열정은 위험해 화이팅!
+제목: 샘플입니당
 부제: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 설명: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 이미지: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559825288/theme17_nlndhx.jpg
